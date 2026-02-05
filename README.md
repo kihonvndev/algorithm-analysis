@@ -1,3 +1,4 @@
 # Algorithm Analysis
 
-- [Unit 1 - Introduction to Algorithm Design and Analysis](1/README.md)
+- [Week 1 - Introduction to Algorithm Design and Analysis](w1/README.md)
+- [Week 2 - Divide and Conquer algorithms](w2/README.md)

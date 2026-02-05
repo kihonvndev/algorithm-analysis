@@ -1,4 +1,4 @@
-[Home](../README.md) / Unit 1
+[Home](../README.md) / Week 1
 
 # Introduction to Algorithm Design and Analysis
 
